@@ -383,3 +383,4 @@ Elasticsearch非常的吃内存，可以将这两个参数设置的大一些。
   
 附近的人查询结果
 ![](https://github.com/YufeizhangRay/image/blob/master/elasticsearch/%E9%99%84%E8%BF%91%E7%9A%84%E4%BA%BA%E6%9F%A5%E8%AF%A2%E7%BB%93%E6%9E%9C.png)  
+[返回顶部](#elasticsearch-practice)
